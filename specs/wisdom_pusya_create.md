@@ -4,7 +4,7 @@
 pusya
 
 ## Objective
-Generate full Character DNA from reference image.
+Create a professional character turnaround sheet showing
 
 ## Skill
 character_dna_creation

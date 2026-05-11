@@ -1,4 +1,4 @@
-# Skill: Character DNA Reference Creation
+# Skill: Character Creation
 
 ## Purpose
 
