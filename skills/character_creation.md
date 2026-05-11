@@ -159,6 +159,6 @@ NOT:
 
 # Output Goal
 
-Create a reusable "character DNA package"
+Create a reusable character package
 that can serve as the canonical source
 for future AI video generation.

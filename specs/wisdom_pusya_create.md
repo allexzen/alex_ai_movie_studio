@@ -1,4 +1,4 @@
-# Task: Character DNA Generation
+# Task: Zen Wisdom Female Character Generation
 
 ## Character ID (index)
 pusya

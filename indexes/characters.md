@@ -1,8 +1,18 @@
 # Characters Index
 
-pusya:
-  specs: specs/wisdom_pusya_create.md
-  skill: skills/character_creation.md
-  reference_path: references/characters/pusya/
-  
-  description: Asian beauty woman
+
+## Character: pusya
+
+## Skill
+skills/character_creation.md
+
+## References
+
+### First example
+references/characters/pusya/pus_chineese_princess.jpg
+
+### Second example
+references/characters/pusya/pus_great_wall.jpg
+
+## Description
+Female Asian beauty woman
